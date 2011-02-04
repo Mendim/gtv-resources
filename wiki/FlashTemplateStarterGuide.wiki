@@ -89,4 +89,4 @@ The location for these files is *html-template/xml/demo*.
 
 == Can I use my own library with the template instead of using GTV UI Library? ==
 
-Of course you can; remember that the GTV UI Lib is just a framework to help you “design” your applications for TV, but feel free to use your own framework if you like. Just remember to pay attention [http://code.google.com/tv/web/docs/design_for_tv.html *Designing For TV*] guidelines for an improved user experience result.
+Of course you can; remember that the GTV UI Lib is just a framework to help you “design” your applications for TV, but feel free to use your own framework if you like. Just remember to pay attention [http://code.google.com/tv/web/docs/design_for_tv.html Designing For TV] guidelines for an improved user experience result.
